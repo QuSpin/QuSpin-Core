@@ -1,0 +1,3 @@
+[submodule "libquspin"]
+	path = libquspin
+	url = https://github.com/QuSpin/libquspin.git

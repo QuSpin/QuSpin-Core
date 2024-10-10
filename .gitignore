@@ -56,3 +56,8 @@ install.txt
 **/.DS_Store
 .coverage
 *.lcov
+*-build/
+*venv/
+
+src/quspin_core/lib/
+src/quspin_core/include/
